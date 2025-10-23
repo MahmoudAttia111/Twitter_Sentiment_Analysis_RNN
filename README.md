@@ -74,13 +74,15 @@ Streamlit Live Demo  https://twittersentimentanalysisrnn-3yt4jdbfzpwj7itdryjrmc.
 ## 📸 Screenshots
 
 ### 🟥 Negative Tweet Prediction
-![Negative](image/Screenshot%202025-10-21%20121348.png)
+![Negative](image/Screenshot%202025-10-21%20122002.png)
 
 ### 🟨 Neutral Tweet Prediction
-![Neutral](image/Screenshot%202025-10-21%20122002.png)
+![Neutral](image/Screenshot%202025-10-21%20122158.png)
+
 
 ### 🟩 Positive Tweet Prediction
-![Positive](image/Screenshot%202025-10-21%20122158.png)
+
+![Postive](image/Screenshot%202025-10-21%20121348.png)
 
 
 📦 Notes
