@@ -70,15 +70,17 @@ Classification Report shows good performance for all classes: Negative, Neutral,
 ## 🔗 Live Demo
 Streamlit Live Demo  https://twittersentimentanalysisrnn-3yt4jdbfzpwj7itdryjrmc.streamlit.app/
 
-📸 Screenshots
+ 
+## 📸 Screenshots
+
 ### 🟥 Negative Tweet Prediction
-![Negative](image/negative.png)
+![Negative](image/Screenshot%202025-10-21%20121348.png)
 
 ### 🟨 Neutral Tweet Prediction
-![Neutral](image/neutral.png)
+![Neutral](image/Screenshot%202025-10-21%20122002.png)
 
 ### 🟩 Positive Tweet Prediction
-![Positive](image/positive.png)
+![Positive](image/Screenshot%202025-10-21%20122158.png)
 
 
 📦 Notes
